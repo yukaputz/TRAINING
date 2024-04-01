@@ -3,5 +3,5 @@
 Greetings, this is my future home for worked training examples.  
 
 Company name
-ptzdfvfxv
-
+ptz
+logo xander
